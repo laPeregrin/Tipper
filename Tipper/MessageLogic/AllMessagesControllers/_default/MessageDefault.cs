@@ -18,9 +18,11 @@ namespace Tipper.MessageLogic.AllMessagesControllers._default
             {
                 new StringBuilder("знаю ты занят, товарищ, но давай-ка ты посмотришь в окно минутку"),
                 new StringBuilder("пришло время... твоим глазам сделать заряд0чку."),
-                new StringBuilder("Очерти вглядом символ бесконечности на протяжении минуты и будешь...молодец"),
+                new StringBuilder("Очерти вглядом символ бесконечности на протяжении минуты и будешь... молодец"),
                 new StringBuilder("Слепота тебе не к лицу, так что дай глазам подышать минутку"),
-                 new StringBuilder("Что бы стать зрячим как Леголасс, нужно рассматривать свои веки на протяжении минуты"),
+                new StringBuilder("Что бы стать зрячим как Леголасс, нужно рассматривать свои веки на протяжении минуты"),
+                new StringBuilder("Отдохнуть пора глазам твоим, я думаю"),
+                 new StringBuilder(),
             };
             MessageFactory = messageFactory;
             MessageFactory.Subscribe<MessageDefault>("default");

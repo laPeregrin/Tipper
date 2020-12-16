@@ -17,7 +17,7 @@ namespace Tipper.MessageLogic.AllMessagesControllers.Customs
             new StringBuilder("Не важно, код или игра, дай глазам подышать"),
             new StringBuilder("Отдохни минутку").Append(", " + SpecialName),
             new StringBuilder("Ни слова по-русски"),
-            new StringBuilder("Ты приближаешься ко мне").Append(", " + SpecialName + ",").Append("? Расслабь глаза"),
+            new StringBuilder("Ты приближаешься ко мне").Append(", " + SpecialName).Append("? Расслабь глаза"),
             new StringBuilder("Проморгайся на протяжении минуты, получишь + 10к интелекту"),
             new StringBuilder("Потри и понюхай... ну и погляди в окно минутку."),
             new StringBuilder("Обернись, там сзади баскетболист стоит... или нет")

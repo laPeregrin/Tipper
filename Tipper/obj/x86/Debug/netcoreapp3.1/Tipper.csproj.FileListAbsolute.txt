@@ -1,3 +1,9 @@
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\MainWindow.g.cs
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\App.g.cs
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper_MarkupCompile.cache
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper_MarkupCompile.lref
+W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.csprojAssemblyReference.cache
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Tipper.exe
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Tipper.deps.json
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Tipper.runtimeconfig.json
@@ -6,14 +12,12 @@ W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Tipper.dll
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Tipper.pdb
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Notifications.Wpf.dll
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Quartz.dll
 W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\MainWindow.g.cs
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\App.g.cs
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper_MarkupCompile.cache
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper_MarkupCompile.lref
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\App.baml
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\MainWindow.baml
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Style\design.baml
@@ -25,7 +29,3 @@ W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.csproj.CopyCo
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.dll
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.pdb
 W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.genruntimeconfig.cache
-W:\programs\repos\Tipper\Tipper\obj\x86\Debug\netcoreapp3.1\Tipper.csprojAssemblyReference.cache
-W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Notifications.Wpf.dll
-W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-W:\programs\repos\Tipper\Tipper\bin\x86\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll

@@ -23,6 +23,7 @@ namespace Tipper
             services.AddSingleton<CustomMessageFactory>();
             services.AddSingleton<MessageDefault>();
             services.AddSingleton<MaximMessage>();
+            services.AddSingleton<VladMessage>();
 
             _provider = services.BuildServiceProvider();
 

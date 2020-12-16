@@ -1,4 +1,5 @@
 ﻿using Notification.Wpf;
+using Quartz;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,20 +20,18 @@ namespace Tipper.NotificationLogic
 
         public NotificationContent Construct()
         {
-            var type = RandomTipper();
             var container = new NotificationContent()
             {
                 Title = "Tipper for you",
                 Message = _message,
-                Type = type
+                Type = RandomTipper()
             };
 
             //make some logic for construct a message
 
             return container;
         }
-
-
+ 
         public NotificationType RandomTipper()
         {
             return (NotificationType)random.Next(0, 4);

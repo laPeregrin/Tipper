@@ -9,13 +9,18 @@ using System.Runtime.Serialization.Formatters;
 
 namespace Tipper.MessageLogic
 {
-    public class CustomMessageFactory
+    public class CustomMessageFactory : IDisposable
     {
         private ConcurrentDictionary<WrapperMessage, string> _MessageSubscribers;
 
         public CustomMessageFactory()
         {
             _MessageSubscribers = new ConcurrentDictionary<WrapperMessage, string>();
+        }
+
+        public void Dispose()
+        {
+            _MessageSubscribers.Clear();
         }
 
         public IMessage GetMessageByName(string name)

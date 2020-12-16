@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Tipper" Height="490" Width="489"
         DataContext="{Binding MainViewModel,Source={StaticResource VmLocator}}"
-         ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Normal" WindowStyle="None">
+         ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Normal" WindowStyle="ThreeDBorderWindow" Visibility="Visible" Background="Black">
     <Grid>
         <Image  Source="/images/_background.jpg" Stretch="Uniform" Cursor="Hand" Grid.ColumnSpan="3">
             <Image.OpacityMask>
@@ -56,13 +56,13 @@
                                 <Setter Property="FontFamily" Value="Yu Gothic UI Light"/>
                                 <Setter Property="FontSize" Value="30"/>
 
-                                    <!--<Style.Triggers>
+                                <!--<Style.Triggers>
                                     <DataTrigger Binding="{Binding RelativeSource={x:Static RelativeSource.Self}, Path=Text}"Value="{x:Null}">
                                         <Setter Property="Foreground" Value="DarkGray"/>
                                         <Setter Property="Text" Value="@Example name"/>
                                     </DataTrigger>
                                 </Style.Triggers>-->
- 
+
                             </Style>
                         </TextBox.Style>
                     </TextBox>
@@ -72,7 +72,7 @@
                         <Button.Style>
                             <Style TargetType="Button">
                                 <Setter Property="IsDefault" Value="True"/>
-                                
+
                                 <Style.Triggers>
                                     <DataTrigger Binding="{Binding Name}" Value="{x:Null}">
                                         <Setter Property="IsEnabled" Value="False"/>
@@ -81,7 +81,7 @@
                                         <Setter Property="IsEnabled" Value="False"/>
                                     </DataTrigger>
                                 </Style.Triggers>
-                                
+
                             </Style>
                         </Button.Style>
                     </Button>

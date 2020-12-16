@@ -8,7 +8,6 @@ namespace Tipper.MessageLogic
 {
     public interface IMessage
     {
-
         IEnumerable<StringBuilder> messageCollection { get; set; }
 
         string SpecialName { get; set; }

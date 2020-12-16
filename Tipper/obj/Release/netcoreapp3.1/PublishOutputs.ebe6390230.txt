@@ -1,0 +1,13 @@
+W:\programs\repos\Tipper\publish\Tipper.exe
+W:\programs\repos\Tipper\publish\Tipper.dll
+W:\programs\repos\Tipper\publish\Tipper.deps.json
+W:\programs\repos\Tipper\publish\Tipper.runtimeconfig.json
+W:\programs\repos\Tipper\publish\Tipper.pdb
+W:\programs\repos\Tipper\publish\DevExpress.Mvvm.UI.dll
+W:\programs\repos\Tipper\publish\DevExpress.Mvvm.dll
+W:\programs\repos\Tipper\publish\Microsoft.Extensions.DependencyInjection.dll
+W:\programs\repos\Tipper\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\programs\repos\Tipper\publish\Microsoft.Extensions.Logging.Abstractions.dll
+W:\programs\repos\Tipper\publish\Notifications.Wpf.dll
+W:\programs\repos\Tipper\publish\Quartz.dll
+W:\programs\repos\Tipper\publish\System.Diagnostics.DiagnosticSource.dll

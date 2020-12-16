@@ -1,0 +1,13 @@
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Tipper.exe
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Tipper.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Tipper.deps.json
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Tipper.runtimeconfig.json
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Tipper.pdb
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\DevExpress.Mvvm.UI.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\DevExpress.Mvvm.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Notifications.Wpf.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\Quartz.dll
+W:\programs\repos\Tipper\Tipper\bin\Release\netcoreapp3.1\publish\System.Diagnostics.DiagnosticSource.dll

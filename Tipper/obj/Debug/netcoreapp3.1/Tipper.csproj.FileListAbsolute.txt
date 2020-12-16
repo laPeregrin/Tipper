@@ -26,3 +26,6 @@ W:\programs\repos\Tipper\Tipper\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHel
 W:\programs\repos\Tipper\Tipper\obj\Debug\netcoreapp3.1\Tipper.csproj.CopyComplete
 W:\programs\repos\Tipper\Tipper\obj\Debug\netcoreapp3.1\App.baml
 W:\programs\repos\Tipper\Tipper\obj\Debug\netcoreapp3.1\Style\design.baml
+W:\programs\repos\Tipper\Tipper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\programs\repos\Tipper\Tipper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\programs\repos\Tipper\Tipper\bin\Debug\netcoreapp3.1\Notifications.Wpf.dll
